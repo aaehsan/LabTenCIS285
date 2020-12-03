@@ -54,11 +54,5 @@ public class testSelectionSort {
           assertArrayEquals(Sortedarr, arr);
         /** Test data contains negative values only **/
     }
-    public void testMixed(){
-       /** Test data contains with both positive, negative and zeros **/
-   }
-
-   public void testDuplicates(){
-       /** Test data contains duplicates **/
-   }
+}
 }
